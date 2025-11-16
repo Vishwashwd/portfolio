@@ -10,12 +10,21 @@
     <!--This is going to be my first project after learning HTML-->
 
     <header>
+        <nav>
+    <a href="#about-me">About</a> |
+    <a href="#projects">Projects</a> |
+    <a href="#contact">Contact</a>
+</nav>
+<br>
+
         <h1>Vishwash</h1>
-        <p>Frontend Web Developer</p>
+        <img height="300" src="image.jpg" alt="image"> 
+        <p><strong>Frontend Web Developer</strong></p>
     </header>
 
     <hr>
     <!--Now the section part is begin including about me and projects-->
+    <main>
 
     <section id="about-me">
         <h2>About Me</h2>
@@ -44,14 +53,15 @@
         </p>
     </section>
     <br>
+    </main>
+
 
     <!-- Footer part -->
-     <section>
-        section id="contact">
-     <footer>
-        Contact me on: vishwashh00@gmail.com
+     
+        <footer id="contact">
+        Contact me on: vishwashh00@gmail.com 
      </footer>
-     </section>
 
 </body>
 </html>
+
