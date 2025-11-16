@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio | Vishwash</title>
+</head>
+<body>
+
+    <!--This is going to be my first project after learning HTML-->
+
+    <header>
+        <h1>Vishwash</h1>
+        <p>Frontend Web Developer</p>
+    </header>
+
+    <hr>
+    <!--Now the section part is begin including about me and projects-->
+
+    <section id="about-me">
+        <h2>About Me</h2>
+        <p>
+            Hi, I'm Vishwash — a B.Tech CSE student and a beginner web developer.
+            I've completely learned HTML and I'm currently improving my skills in CSS and JavaScript.
+            I also use Git and GitHub to manage my projects and track my progress as I grow in web development.
+            Apart from coding, I'm an athlete and someone who actively works on building my physique.
+            I'm continuously learning and improving so I can build better websites and grow as a web developer.
+        </p>
+    </section>
+
+    <hr>
+
+    <section id="projects">
+        <h2>My Projects</h2>
+
+        <h3>1. Portfolio Site (Built with HTML. CSS & JavaScript updates coming soon.)</h3>
+        <p>
+            A basic Portfolio website using only HTML. I will be updating it soon with CSS and JavaScript to enhance the design and functionality.
+        </p>
+
+        <h3>2. Student Registration Form (Built with HTML. CSS & JavaScript updates coming soon.)</h3>
+        <p>
+            A simple Student registration form built using HTML. It includes fields like name, contact number, email, address, gender, course selection, date of birth, and password.
+        </p>
+    </section>
+    <br>
+
+    <!-- Footer part -->
+     <section>
+        section id="contact">
+     <footer>
+        Contact me on: vishwashh00@gmail.com
+     </footer>
+     </section>
+
+</body>
+</html>
