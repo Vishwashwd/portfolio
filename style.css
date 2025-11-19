@@ -1,0 +1,19 @@
+footer {
+    color: blue;
+}
+
+.name {
+    text-align: center;
+}
+ 
+img {
+     
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
+
+.bolding {
+    font-family: Arial;
+}
