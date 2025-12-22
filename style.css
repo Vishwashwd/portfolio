@@ -1,8 +1,8 @@
 nav {
-    background-color: white
-    text-align: center;
+    background-color: black;
+    text-align: center; 
     padding: 15px;
-    
+
 }
 
 header {
@@ -21,7 +21,7 @@ nav a {
     font-size: large;
     padding: 15px;
     transition: 0.3s ease;
-    
+
 
 }
 
@@ -33,13 +33,13 @@ footer {
     background-color: black;
     padding: 10px;
     font-weight: 500;
-   
+
 }
 
 footer a {
     text-decoration: none;
     color: #00BFFF;
-    
+
 }
 
 footer a:hover {
@@ -57,9 +57,9 @@ img {
     border-radius: 50%;
     border: 4px solid yellow;
     box-shadow: 0 0 18px yellow;
-    
-        
-    
+
+
+
 }
 
 .bolding {
@@ -78,12 +78,12 @@ section h2 {
     color: #0033aa;
     border-left: 6px solid #0033aa;
     padding-left: 12px;
-    
+
 }
 
 h3 {
-    background: #e7f3ff;;
-    font-size:xx-large;
+    background: #e7f3ff;
+    font-size: xx-large;
     border-left: 4px solid #0077ff;
     padding-left: 10px;
     border-radius: 9px;
@@ -95,8 +95,8 @@ h3 {
 }
 
 hr {
-    border-radius: 50%;
+    border-radius: 100%;
     height: 2px;
-    background-color: yellow;
-    
+    background-color: black;
+
 }
