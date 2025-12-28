@@ -102,6 +102,8 @@ h3 {
 
 hr {
     height: 2px;
+    border-color: blue;
+    border-radius: 10px;
     background-color: blue;
     
 
